@@ -1,0 +1,61 @@
+@font-face {
+    font-family: 'Coco Gothic Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Coco Gothic Regular'), url('Coco-Gothic-Regular-trial.woff') format('woff');
+}
+    
+@font-face {
+    font-family: 'Coco Gothic UltraLight';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Coco Gothic UltraLight'), url('../font/Coco-Gothic-Regular-trial.woff') format('woff');
+}
+    
+@font-face {
+    font-family: 'Coco Gothic Light';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Coco Gothic Light'), url('Coco-Gothic-Light-trial.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Coco Gothic Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Coco Gothic Bold'), url('Coco-Gothic-Bold-trial.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Coco Gothic Heavy';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Coco Gothic Heavy'), url('Coco-Gothic-Heavy-trial.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Coco Gothic Fat';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Coco Gothic Fat'), url('Coco-Gothic-Fat-trial.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'NEXON Lv1 Gothic OTF';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@2.1/NEXON Lv1 Gothic OTF.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'NanumSquareNeo-Variable';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_11-01@1.0/NanumSquareNeo-Variable.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Coco-Gothic-Regular-trial';
+    src: url(../font/Coco-Gothic-Regular-trial.woff) format('woff');
+}

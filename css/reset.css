@@ -1,0 +1,59 @@
+*, ::after, ::before{
+    box-sizing: border-box;
+}
+
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video, button{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+    color: inherit;
+    font-family: 'Coco-Gothic-Regular-trial', 'NanumSquareNeo-Variable';
+    letter-spacing: 0.025em;
+}
+
+article,aside,details,figcaption,figure, footer,header,hgroup,menu,nav,section{
+    display: block;
+}
+
+a{
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+    text-decoration: none;
+    color: inherit;
+}
+
+li{
+    list-style: none;
+}
+
+img{
+    vertical-align: top;
+}
+
+
+input, textarea{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-bottom: 1px solid javascript:void(0);757575;
+    color: #3A2826;
+    vertical-align: top;
+    border-radius: 0;
+    box-sizing: content-box;
+    appearance: none;
+    background-color: inherit;
+    font-family: 'Coco-Gothic-Regular-trial';
+    box-sizing: border-box;
+}
+
+button{
+        cursor: pointer;
+}
